@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG8583
   title: ལམ་རིམ་རྣམ་གྲོལ་ལག་བཅངས།
-  volume: ''
+  volume:
+    58ca2a333ca249cb81ae129c0e3101e5:
+      image_group_id: I1KG8597
+      title: Volume 1 of lam rim rnam grol lag bcangs/
+      volume_number: 1
+      total_pages: 558
   author: ''
+ebook_metadata:
+  title: ལམ་རིམ་རྣམ་གྲོལ་ལག་བཅངས།
+  author: ''
+  sku: P008036
+  cover: cover.jpg
+  layers:
+  - pagination
