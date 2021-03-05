@@ -1,15 +1,16 @@
-id: opecha:P008036
+id: P008036
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG8583
   title: ལམ་རིམ་རྣམ་གྲོལ་ལག་བཅངས།
-  volume:
+  author: ''
+  volumes:
     58ca2a333ca249cb81ae129c0e3101e5:
       image_group_id: I1KG8597
       title: Volume 1 of lam rim rnam grol lag bcangs/
       volume_number: 1
       total_pages: 558
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལམ་རིམ་རྣམ་གྲོལ་ལག་བཅངས།
   author: ''
